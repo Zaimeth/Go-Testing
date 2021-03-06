@@ -1,0 +1,3 @@
+{"level":"error","msg":"[HELPER REST_API] Error client do: Get \"?apikey=\u0026s=batman\u0026page=7\": unsupported protocol scheme \"\"","time":"2021-03-06T13:46:49+07:00"}
+{"level":"error","msg":"[HELPER REST_API] Error client do: Get \"?apikey=\u0026s=\u0026page=0\": unsupported protocol scheme \"\"","time":"2021-03-06T13:47:26+07:00"}
+{"level":"error","msg":"[HELPER REST_API] Error client do: Get \"?apikey=\u0026s=batman\u0026page=7\": unsupported protocol scheme \"\"","time":"2021-03-06T13:49:05+07:00"}
