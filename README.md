@@ -1,3 +1,5 @@
+# This repository is a clone of repo https://github.com/bbliong/omdbRestAPI
+
 # OMDB API
 
 ## Tech-Stack
